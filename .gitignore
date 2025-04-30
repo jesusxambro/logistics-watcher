@@ -1,0 +1,4 @@
+.vscode/*
+
+./be-server/fly.toml
+./be-server/.env
